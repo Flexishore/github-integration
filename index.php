@@ -1,3 +1,4 @@
 <?php
 
 echo 'PROJECT INITIALIZATION';
+echo 'FINISHED';
